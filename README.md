@@ -62,3 +62,7 @@ rag-chatbot/
 
 ## License
 This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+👤 Anurag  
+📌 [GitHub](https://github.com/anuragse2910) | 📧 [anuragselote12@gmail.com](mailto:anuragselote12@gmail.com)
