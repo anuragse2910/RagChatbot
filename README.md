@@ -31,7 +31,14 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot that leverages in
    ```sh
    pip install -r requirements.txt
    ```
-
+### Set Your MySQL Credentials
+- Enter your Correct Credential of MySQL
+- Make Connection to your Database.
+  
+### Generate you GEMINI_API_KEY
+- Open ai.google.dev on google and generate you api key
+- Set your API key in ```config.py```
+  
 ### Running the Project
 1. Ensure all dependencies are installed.
 2. Start the chatbot service:
